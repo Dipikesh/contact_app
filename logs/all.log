@@ -1,0 +1,1331 @@
+[34m29/05/2022 22:09:46 - [info] : listening on port 3000[39m
+[34m29/05/2022 22:10:20 - [info] : listening on port 3000[39m
+[34m29/05/2022 22:34:39 - [info] : listening on port 3000[39m
+[34m29/05/2022 22:35:36 - [info] : listening on port 3000[39m
+[34m29/05/2022 22:40:41 - [info] : listening on port 3000[39m
+[34m29/05/2022 22:46:52 - [info] : listening on port 3000[39m
+[34m29/05/2022 22:48:43 - [info] : listening on port 3000[39m
+[31m29/05/2022 22:58:58 - [error] : Not Found[39m
+[35m29/05/2022 22:58:58 - [http] : POST /api/register%20HTTP%201.1 404 46 - 6.544 ms[39m
+[35m[39m
+[31m29/05/2022 23:01:11 - [error] : Not Found[39m
+[35m29/05/2022 23:01:11 - [http] : POST /api/register%20HTTP%201.1 404 46 - 2.288 ms[39m
+[35m[39m
+[31m29/05/2022 23:02:52 - [error] : Not Found[39m
+[35m29/05/2022 23:02:52 - [http] : POST /api/register%20HTTP%201.1 404 46 - 1.652 ms[39m
+[35m[39m
+[31m29/05/2022 23:04:01 - [error] : Not Found[39m
+[35m29/05/2022 23:04:01 - [http] : POST /api/register/%20HTTP%201.1 404 46 - 1.796 ms[39m
+[35m[39m
+[31m29/05/2022 23:04:10 - [error] : Not Found[39m
+[35m29/05/2022 23:04:10 - [http] : POST /api/register%20HTTP%201.1 404 46 - 1.684 ms[39m
+[35m[39m
+[31m29/05/2022 23:05:45 - [error] : Not Found[39m
+[35m29/05/2022 23:05:45 - [http] : POST /api/register 404 46 - 1.900 ms[39m
+[35m[39m
+[31m29/05/2022 23:06:24 - [error] : Not Found[39m
+[35m29/05/2022 23:06:24 - [http] : POST /api/register 404 46 - 1.491 ms[39m
+[35m[39m
+[31m29/05/2022 23:07:30 - [error] : Not Found[39m
+[35m29/05/2022 23:07:30 - [http] : POST /api/register 404 46 - 2.641 ms[39m
+[35m[39m
+[31m29/05/2022 23:08:54 - [error] : Not Found[39m
+[35m29/05/2022 23:08:54 - [http] : POST /api/register 404 46 - 1.277 ms[39m
+[35m[39m
+[31m29/05/2022 23:09:15 - [error] : Not Found[39m
+[35m29/05/2022 23:09:15 - [http] : GET /api/register 404 46 - 1.856 ms[39m
+[35m[39m
+[31m29/05/2022 23:09:15 - [error] : Not Found[39m
+[35m29/05/2022 23:09:15 - [http] : GET /favicon.ico 404 46 - 1.447 ms[39m
+[35m[39m
+[31m29/05/2022 23:11:08 - [error] : Not Found[39m
+[35m29/05/2022 23:11:08 - [http] : GET / 404 46 - 1.578 ms[39m
+[35m[39m
+[31m29/05/2022 23:11:52 - [error] : Not Found[39m
+[35m29/05/2022 23:11:52 - [http] : POST /api/register 404 46 - 2.642 ms[39m
+[35m[39m
+[31m29/05/2022 23:12:17 - [error] : Not Found[39m
+[35m29/05/2022 23:12:17 - [http] : POST /api/register 404 46 - 1.911 ms[39m
+[35m[39m
+[31m29/05/2022 23:15:16 - [error] : Not Found[39m
+[35m29/05/2022 23:15:16 - [http] : POST /api/register 404 46 - 2.518 ms[39m
+[35m[39m
+[31m29/05/2022 23:22:17 - [error] : Not Found[39m
+[35m29/05/2022 23:22:17 - [http] : POST /api/register 404 46 - 1.454 ms[39m
+[35m[39m
+[31m29/05/2022 23:24:02 - [error] : Not Found[39m
+[35m29/05/2022 23:24:02 - [http] : POST /api/register 404 46 - 2.502 ms[39m
+[35m[39m
+[31m29/05/2022 23:38:23 - [error] : Not Found[39m
+[35m29/05/2022 23:38:23 - [http] : POST /api/register 404 46 - 2.860 ms[39m
+[35m[39m
+[34m29/05/2022 23:41:54 - [info] : listening on port 3000[39m
+[31m29/05/2022 23:42:06 - [error] : Cannot read property 'create' of undefined[39m
+[34m29/05/2022 23:43:31 - [info] : listening on port 3000[39m
+[35m29/05/2022 23:43:42 - [http] : POST /api/register 200 164 - 326.090 ms[39m
+[35m[39m
+[35m29/05/2022 23:45:03 - [http] : POST /api/register 200 164 - 2473.437 ms[39m
+[35m[39m
+[34m29/05/2022 23:47:51 - [info] : listening on port 3000[39m
+[35m29/05/2022 23:48:03 - [http] : POST /api/register 200 164 - 325.837 ms[39m
+[35m[39m
+[35m29/05/2022 23:52:07 - [http] : POST /api/register 200 164 - 2751.619 ms[39m
+[35m[39m
+[31m29/05/2022 23:57:47 - [error] : Not Found[39m
+[35m29/05/2022 23:57:47 - [http] : GET /api/getAllUser 404 46 - 3.078 ms[39m
+[35m[39m
+[31m29/05/2022 23:58:16 - [error] : Not Found[39m
+[35m29/05/2022 23:58:16 - [http] : GET /api/getAllUser 404 46 - 2.470 ms[39m
+[35m[39m
+[34m29/05/2022 23:58:22 - [info] : listening on port 3000[39m
+[35m29/05/2022 23:58:35 - [http] : GET /api/getAllUser 200 2 - 297.490 ms[39m
+[35m[39m
+[35m29/05/2022 23:58:41 - [http] : POST /api/register 200 164 - 305.192 ms[39m
+[35m[39m
+[35m29/05/2022 23:58:46 - [http] : GET /api/getAllUser 200 157 - 312.172 ms[39m
+[35m[39m
+[34m30/05/2022 00:14:49 - [info] : listening on port 3000[39m
+[35m30/05/2022 00:15:08 - [http] : POST /api/register 200 163 - 417.698 ms[39m
+[35m[39m
+[35m30/05/2022 00:15:22 - [http] : POST /api/register 200 163 - 2493.666 ms[39m
+[35m[39m
+[31m30/05/2022 00:15:34 - [error] : Not Found[39m
+[35m30/05/2022 00:15:34 - [http] : POST /api/login 404 46 - 2.315 ms[39m
+[35m[39m
+[34m30/05/2022 00:16:36 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:18:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:19:10 - [info] : data[39m
+[35m30/05/2022 00:19:10 - [http] : POST /api/register 200 154 - 389.338 ms[39m
+[35m[39m
+[35m30/05/2022 00:19:19 - [http] : GET /api/getAllUser 200 156 - 307.346 ms[39m
+[35m[39m
+[34m30/05/2022 00:23:15 - [info] : data[39m
+[35m30/05/2022 00:23:15 - [http] : POST /api/register 200 154 - 2444.839 ms[39m
+[35m[39m
+[34m30/05/2022 00:23:50 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:24:03 - [info] : data[39m
+[35m30/05/2022 00:24:03 - [http] : POST /api/register 200 154 - 415.671 ms[39m
+[35m[39m
+[34m30/05/2022 00:24:55 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:25:10 - [info] : data[39m
+[35m30/05/2022 00:25:10 - [http] : POST /api/register 200 154 - 416.684 ms[39m
+[35m[39m
+[34m30/05/2022 00:27:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:28:29 - [info] : data[39m
+[35m30/05/2022 00:28:29 - [http] : POST /api/register 200 154 - 2378.054 ms[39m
+[35m[39m
+[34m30/05/2022 00:29:04 - [info] : data[39m
+[35m30/05/2022 00:29:04 - [http] : POST /api/register 200 154 - 2397.977 ms[39m
+[35m[39m
+[34m30/05/2022 00:29:37 - [info] : data[39m
+[35m30/05/2022 00:29:37 - [http] : POST /api/register 200 154 - 2319.742 ms[39m
+[35m[39m
+[34m30/05/2022 00:29:46 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:29:57 - [info] : data[39m
+[35m30/05/2022 00:29:57 - [http] : POST /api/register 200 154 - 299.282 ms[39m
+[35m[39m
+[34m30/05/2022 00:31:47 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:32:00 - [info] : data[39m
+[35m30/05/2022 00:32:00 - [http] : POST /api/register 200 154 - 355.368 ms[39m
+[35m[39m
+[34m30/05/2022 00:46:52 - [info] : data[39m
+[35m30/05/2022 00:46:52 - [http] : POST /api/register 200 154 - 2574.753 ms[39m
+[35m[39m
+[34m30/05/2022 00:47:44 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:48:49 - [info] : data[39m
+[35m30/05/2022 00:48:49 - [http] : POST /api/register 200 154 - 2318.312 ms[39m
+[35m[39m
+[34m30/05/2022 00:50:55 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:51:32 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:52:25 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:53:17 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:53:30 - [info] : data[39m
+[35m30/05/2022 00:53:30 - [http] : POST /api/register 200 154 - 372.723 ms[39m
+[35m[39m
+[31m30/05/2022 00:55:09 - [error] : invalid input syntax for type boolean: "Dipikesh@123"[39m
+[34m30/05/2022 00:55:37 - [info] : listening on port 3000[39m
+[34m30/05/2022 00:55:51 - [info] : data[39m
+[35m30/05/2022 00:55:51 - [http] : POST /api/register 200 192 - 285.429 ms[39m
+[35m[39m
+[35m30/05/2022 00:56:08 - [http] : GET /api/getAllUser 200 194 - 2417.941 ms[39m
+[35m[39m
+[34m30/05/2022 01:01:53 - [info] : listening on port 3000[39m
+[31m30/05/2022 01:02:18 - [error] : Not Found[39m
+[35m30/05/2022 01:02:18 - [http] : POST /api/login 404 46 - 7.348 ms[39m
+[35m[39m
+[34m30/05/2022 01:02:54 - [info] : listening on port 3000[39m
+[31m30/05/2022 01:03:07 - [error] : validation is not defined[39m
+[34m30/05/2022 01:03:55 - [info] : listening on port 3000[39m
+[31m30/05/2022 01:04:07 - [error] : validation is not defined[39m
+[34m30/05/2022 01:04:31 - [info] : listening on port 3000[39m
+[31m30/05/2022 01:04:50 - [error] : Email is required. Password is Required![39m
+[31m30/05/2022 01:04:50 - [error] : Email is required. Password is Required![39m
+[35m30/05/2022 01:04:50 - [http] : POST /api/login 500 77 - 57.879 ms[39m
+[35m[39m
+[31m30/05/2022 01:05:03 - [error] : Cannot read property '0' of undefined[39m
+[34m30/05/2022 01:06:26 - [info] : listening on port 3000[39m
+[31m30/05/2022 01:06:38 - [error] : Cannot read property '0' of undefined[39m
+[34m30/05/2022 01:07:34 - [info] : listening on port 3000[39m
+[34m30/05/2022 01:09:53 - [info] : listening on port 3000[39m
+[31m30/05/2022 01:10:06 - [error] : Cannot read property '0' of undefined[39m
+[34m30/05/2022 10:24:37 - [info] : listening on port 3000[39m
+[31m30/05/2022 10:24:56 - [error] : Cannot read property '0' of undefined[39m
+[34m30/05/2022 10:29:22 - [info] : listening on port 3000[39m
+[31m30/05/2022 10:29:35 - [error] : Cannot read property '0' of undefined[39m
+[34m30/05/2022 10:30:36 - [info] : listening on port 3000[39m
+[35m30/05/2022 10:30:47 - [http] : POST /api/login 404 33 - 329.109 ms[39m
+[35m[39m
+[34m30/05/2022 10:30:53 - [info] : data[39m
+[35m30/05/2022 10:30:53 - [http] : POST /api/register 200 192 - 335.341 ms[39m
+[35m[39m
+[31m30/05/2022 10:30:56 - [error] : Cannot read property '0' of undefined[39m
+[34m30/05/2022 10:32:25 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:32:38 - [info] : data[39m
+[35m30/05/2022 10:32:38 - [http] : POST /api/register 200 192 - 293.993 ms[39m
+[35m[39m
+[31m30/05/2022 10:32:41 - [error] : Cannot read property 'dataValues' of undefined[39m
+[34m30/05/2022 10:33:54 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:34:10 - [info] : data[39m
+[35m30/05/2022 10:34:10 - [http] : POST /api/register 200 192 - 360.420 ms[39m
+[35m[39m
+[31m30/05/2022 10:34:15 - [error] : Cannot read property 'userId' of undefined[39m
+[34m30/05/2022 10:34:49 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:35:00 - [info] : data[39m
+[35m30/05/2022 10:35:00 - [http] : POST /api/register 200 192 - 313.079 ms[39m
+[35m[39m
+[31m30/05/2022 10:35:07 - [error] : Cannot read property 'userId' of undefined[39m
+[34m30/05/2022 10:35:46 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:36:00 - [info] : data[39m
+[35m30/05/2022 10:36:00 - [http] : POST /api/register 200 192 - 306.952 ms[39m
+[35m[39m
+[35m30/05/2022 10:36:04 - [http] : POST /api/login 200 39 - 390.359 ms[39m
+[35m[39m
+[35m30/05/2022 10:54:48 - [http] : POST /api/login 200 39 - 2252.499 ms[39m
+[35m[39m
+[31m30/05/2022 10:55:07 - [error] : Not Found[39m
+[35m30/05/2022 10:55:07 - [http] : PUT /api/updateUserProfile 404 46 - 5.622 ms[39m
+[35m[39m
+[34m30/05/2022 10:56:15 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:56:27 - [info] : data[39m
+[35m30/05/2022 10:56:27 - [http] : POST /api/register 200 192 - 301.496 ms[39m
+[35m[39m
+[35m30/05/2022 10:56:31 - [http] : POST /api/login 200 39 - 427.511 ms[39m
+[35m[39m
+[31m30/05/2022 10:56:49 - [error] : Cannot set property 'authenticated' of undefined[39m
+[34m30/05/2022 10:57:06 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:57:11 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:58:46 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:58:47 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:58:49 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:59:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:59:13 - [info] : listening on port 3000[39m
+[34m30/05/2022 10:59:31 - [info] : listening on port 3000[39m
+[31m30/05/2022 10:59:48 - [error] : Not Found[39m
+[35m30/05/2022 10:59:48 - [http] : GET /api/register 404 46 - 10.997 ms[39m
+[35m[39m
+[31m30/05/2022 10:59:49 - [error] : Not Found[39m
+[35m30/05/2022 10:59:49 - [http] : GET /favicon.ico 404 46 - 2.155 ms[39m
+[35m[39m
+[34m30/05/2022 10:59:54 - [info] : data[39m
+[35m30/05/2022 10:59:54 - [http] : POST /api/register 200 192 - 2505.341 ms[39m
+[35m[39m
+[35m30/05/2022 10:59:59 - [http] : POST /api/login 200 39 - 350.900 ms[39m
+[35m[39m
+[35m30/05/2022 11:00:18 - [http] : PUT /api/updateUserProfile 500 31 - 4.181 ms[39m
+[35m[39m
+[34m30/05/2022 11:00:57 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:01:08 - [info] : data[39m
+[35m30/05/2022 11:01:08 - [http] : POST /api/register 200 192 - 335.762 ms[39m
+[35m[39m
+[35m30/05/2022 11:01:12 - [http] : POST /api/login 200 39 - 342.233 ms[39m
+[35m[39m
+[35m30/05/2022 11:01:26 - [http] : PUT /api/updateUserProfile 500 31 - 8.173 ms[39m
+[35m[39m
+[34m30/05/2022 11:01:40 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:01:51 - [info] : data[39m
+[35m30/05/2022 11:01:51 - [http] : POST /api/register 200 192 - 395.329 ms[39m
+[35m[39m
+[35m30/05/2022 11:01:56 - [http] : POST /api/login 200 39 - 373.133 ms[39m
+[35m[39m
+[35m30/05/2022 11:02:12 - [http] : PUT /api/updateUserProfile 500 31 - 2408.128 ms[39m
+[35m[39m
+[34m30/05/2022 11:02:35 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:02:46 - [info] : data[39m
+[35m30/05/2022 11:02:46 - [http] : POST /api/register 200 192 - 352.718 ms[39m
+[35m[39m
+[35m30/05/2022 11:02:51 - [http] : POST /api/login 200 39 - 374.913 ms[39m
+[35m[39m
+[35m30/05/2022 11:03:11 - [http] : PUT /api/updateUserProfile 500 31 - 2336.586 ms[39m
+[35m[39m
+[34m30/05/2022 11:03:46 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:03:47 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:03:50 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:03:55 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:04:00 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:04:04 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:04:10 - [info] : data[39m
+[35m30/05/2022 11:04:10 - [http] : POST /api/register 200 192 - 2275.187 ms[39m
+[35m[39m
+[35m30/05/2022 11:04:13 - [http] : POST /api/login 404 33 - 298.972 ms[39m
+[35m[39m
+[34m30/05/2022 11:04:17 - [info] : data[39m
+[35m30/05/2022 11:04:17 - [http] : POST /api/register 200 192 - 318.598 ms[39m
+[35m[39m
+[35m30/05/2022 11:04:20 - [http] : POST /api/login 200 39 - 330.095 ms[39m
+[35m[39m
+[35m30/05/2022 11:04:36 - [http] : PUT /api/updateUserProfile 500 31 - 2521.218 ms[39m
+[35m[39m
+[34m30/05/2022 11:04:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:05:07 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:06:22 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:06:33 - [info] : data[39m
+[35m30/05/2022 11:06:33 - [http] : POST /api/register 200 192 - 296.507 ms[39m
+[35m[39m
+[35m30/05/2022 11:06:36 - [http] : POST /api/login 200 39 - 389.920 ms[39m
+[35m[39m
+[35m30/05/2022 11:06:50 - [http] : PUT /api/updateUserProfile 500 31 - 2530.605 ms[39m
+[35m[39m
+[34m30/05/2022 11:07:12 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:07:23 - [info] : data[39m
+[35m30/05/2022 11:07:23 - [http] : POST /api/register 200 192 - 285.472 ms[39m
+[35m[39m
+[35m30/05/2022 11:07:25 - [http] : POST /api/login 200 39 - 389.484 ms[39m
+[35m[39m
+[35m30/05/2022 11:07:41 - [http] : PUT /api/updateUserProfile 500 31 - 9.676 ms[39m
+[35m[39m
+[34m30/05/2022 11:08:25 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:08:27 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:08:37 - [info] : listening on port 3000[39m
+[34m30/05/2022 11:08:42 - [info] : data[39m
+[35m30/05/2022 11:08:42 - [http] : POST /api/register 200 192 - 570.631 ms[39m
+[35m[39m
+[35m30/05/2022 11:08:55 - [http] : POST /api/login 404 33 - 388.667 ms[39m
+[35m[39m
+[34m30/05/2022 11:08:58 - [info] : data[39m
+[35m30/05/2022 11:08:58 - [http] : POST /api/register 200 192 - 335.184 ms[39m
+[35m[39m
+[35m30/05/2022 11:09:00 - [http] : POST /api/login 200 39 - 299.662 ms[39m
+[35m[39m
+[35m30/05/2022 11:09:23 - [http] : PUT /api/updateUserProfile 200 34 - 2798.565 ms[39m
+[35m[39m
+[34m30/05/2022 12:06:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:06:03 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:06:49 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:08:17 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:08:55 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:16 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:19 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:23 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:24 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:26 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:27 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:28 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:31 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:33 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:38 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:40 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:09:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:10:04 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:10:06 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:10:07 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:10:13 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:10:14 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:10:18 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:14:49 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:14:51 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:14:53 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:18:17 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:18:26 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:18:28 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:18:38 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:18:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:18 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:29 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:34 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:36 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:43 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:47 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:51 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:19:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:11 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:20 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:28 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:32 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:34 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:42 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:46 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:53 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:20:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:21:02 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:04 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:13 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:29 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:31 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:40 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:41 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:43 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:44 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:48 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:52 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:22:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:23:10 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:23:12 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:23:19 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:23:21 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:23:45 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:05 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:06 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:11 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:13 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:15 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:31 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:40 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:44 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:50 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:24:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:25:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:25:10 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:26:29 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:26:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:02 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:04 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:09 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:35 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:37 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:38 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:40 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:41 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:48 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:49 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:27:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:06 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:07 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:19 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:34 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:54 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:28:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:04 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:07 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:10 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:12 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:22 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:23 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:24 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:32 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:38 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:39 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:42 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:45 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:47 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:29:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:32:15 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:35:06 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:35:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:07 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:27 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:33 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:37 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:39 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:40 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:43 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:44 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:48 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:51 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:36:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:11 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:14 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:17 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:23 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:29 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:34 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:45 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:37:55 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:05 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:06 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:07 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:14 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:17 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:27 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:28 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:32 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:47 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:38:50 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:39:03 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:39:08 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:41:28 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:41:46 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:41:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:00 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:02 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:08 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:25 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:27 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:29 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:42:51 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:01 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:03 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:04 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:09 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:11 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:13 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:26 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:43:28 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:46:44 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:46:53 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:46:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:48:31 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:48:48 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:49:16 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:49:21 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:49:35 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:49:37 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:49:38 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:49:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:50:02 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:50:18 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:50:45 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:50:47 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:31 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:35 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:38 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:43 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:46 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:51 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:53 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:54 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:52:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:53:09 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:53:42 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:53:43 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:54:38 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:08 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:11 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:16 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:21 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:23 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:26 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:39 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:43 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:45 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:49 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:55:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 12:58:30 - [info] : listening on port 3000[39m
+[35m30/05/2022 13:01:40 - [http] : POST /api/login 404 33 - 2535.384 ms[39m
+[35m[39m
+[34m30/05/2022 13:01:44 - [info] : data[39m
+[35m30/05/2022 13:01:44 - [http] : POST /api/register 200 192 - 293.406 ms[39m
+[35m[39m
+[35m30/05/2022 13:01:48 - [http] : POST /api/login 200 39 - 295.519 ms[39m
+[35m[39m
+[31m30/05/2022 13:02:10 - [error] : Not Found[39m
+[35m30/05/2022 13:02:10 - [http] : POST /api/createContact 404 46 - 6.260 ms[39m
+[35m[39m
+[34m30/05/2022 13:02:29 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:02:33 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:02:48 - [info] : data[39m
+[35m30/05/2022 13:02:48 - [http] : POST /api/register 200 192 - 313.008 ms[39m
+[35m[39m
+[35m30/05/2022 13:02:51 - [http] : POST /api/login 200 39 - 392.890 ms[39m
+[35m[39m
+[31m30/05/2022 13:03:00 - [error] : Bad Request[39m
+[35m30/05/2022 13:03:00 - [http] : POST /api/createContact 400 48 - 2.841 ms[39m
+[35m[39m
+[31m30/05/2022 13:04:12 - [error] : Bad Request[39m
+[35m30/05/2022 13:04:12 - [http] : GET /api/getUserInfo?id=1 400 48 - 5.381 ms[39m
+[35m[39m
+[31m30/05/2022 13:04:21 - [error] : [object Object][39m
+[35m30/05/2022 13:04:21 - [http] : GET /api/getUserInfo?id=1 400 64 - 1.367 ms[39m
+[35m[39m
+[31m30/05/2022 13:04:25 - [error] : Bad Request[39m
+[35m30/05/2022 13:04:25 - [http] : GET /api/getUserInfo?id=1 400 48 - 1.888 ms[39m
+[35m[39m
+[34m30/05/2022 13:05:10 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:05:12 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:05:13 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:05:15 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:05:37 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:05:46 - [info] : data[39m
+[35m30/05/2022 13:05:46 - [http] : POST /api/register 200 192 - 301.622 ms[39m
+[35m[39m
+[35m30/05/2022 13:05:52 - [http] : POST /api/login 200 39 - 450.481 ms[39m
+[35m[39m
+[35m30/05/2022 13:05:52 - [http] : POST /api/login 200 39 - 484.383 ms[39m
+[35m[39m
+[35m30/05/2022 13:06:15 - [http] : POST /api/createContact 201 59 - 2391.304 ms[39m
+[35m[39m
+[31m30/05/2022 13:06:33 - [error] : Bad Request[39m
+[35m30/05/2022 13:06:33 - [http] : GET /api/getUserInfo?id=1 400 48 - 1.712 ms[39m
+[35m[39m
+[35m30/05/2022 13:06:51 - [http] : GET /api/getUserInfo?id=1 200 82 - 2451.838 ms[39m
+[35m[39m
+[35m30/05/2022 13:06:51 - [http] : GET /api/getUserInfo?id=1 200 82 - 270.696 ms[39m
+[35m[39m
+[35m30/05/2022 13:08:18 - [http] : GET /api/getUserContacts?id=1 200 234 - 2523.174 ms[39m
+[35m[39m
+[34m30/05/2022 13:09:39 - [info] : listening on port 3000[39m
+[35m30/05/2022 13:10:05 - [http] : GET /api/getUserContacts?id=1 200 179 - 2503.060 ms[39m
+[35m[39m
+[34m30/05/2022 13:11:31 - [info] : listening on port 3000[39m
+[35m30/05/2022 13:19:16 - [http] : GET /api/getUserContacts?id=1 200 179 - 2570.881 ms[39m
+[35m[39m
+[34m30/05/2022 13:19:45 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:19:51 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:05 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:11 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:13 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:21 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:23 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:25 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:29 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:20:43 - [info] : listening on port 3000[39m
+[35m30/05/2022 13:21:10 - [http] : POST /api/createContact 201 59 - 2962.008 ms[39m
+[35m[39m
+[35m30/05/2022 13:21:15 - [http] : GET /api/getUserContacts?id=1 200 316 - 273.381 ms[39m
+[35m[39m
+[34m30/05/2022 13:23:05 - [info] : listening on port 3000[39m
+[34m30/05/2022 13:23:20 - [info] : listening on port 3000[39m
+[34m30/05/2022 14:49:07 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:12:36 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:31:36 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:31:43 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:31:48 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:32:02 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:32:03 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:32:05 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:32:42 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:33:03 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:35:51 - [error] : Email must be a valid email address[39m
+[31m30/05/2022 22:35:51 - [error] : Email must be a valid email address[39m
+[35m30/05/2022 22:35:51 - [http] : POST /api/login 500 72 - 30.085 ms[39m
+[35m[39m
+[35m30/05/2022 22:36:08 - [http] : POST /api/login 200 39 - 3077.572 ms[39m
+[35m[39m
+[34m30/05/2022 22:37:21 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:37:59 - [error] : [object Object][39m
+[35m30/05/2022 22:37:59 - [http] : POST /api/user/createContact 400 64 - 9.730 ms[39m
+[35m[39m
+[31m30/05/2022 22:38:13 - [error] : Bad Request[39m
+[35m30/05/2022 22:38:13 - [http] : POST /api/user/createContact 400 48 - 2.491 ms[39m
+[35m[39m
+[34m30/05/2022 22:38:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:39:53 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:39:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:39:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:40:09 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:40:16 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:40:22 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:42:17 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:42:24 - [error] : Cannot read property 'split' of undefined[39m
+[34m30/05/2022 22:42:57 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:42:59 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:43:10 - [error] : Cannot read property 'split' of undefined[39m
+[34m30/05/2022 22:43:49 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:43:50 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:43:54 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:43:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:44:02 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:44:13 - [error] : Bad Request[39m
+[35m30/05/2022 22:44:13 - [http] : POST /api/user/createContactBulk 400 48 - 9.270 ms[39m
+[35m[39m
+[31m30/05/2022 22:44:21 - [error] : Bad Request[39m
+[35m30/05/2022 22:44:21 - [http] : POST /api/user/createContactBulk 400 48 - 1.684 ms[39m
+[35m[39m
+[34m30/05/2022 22:44:39 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:44:44 - [error] : [object Object][39m
+[35m30/05/2022 22:44:44 - [http] : POST /api/user/createContactBulk 400 64 - 8.244 ms[39m
+[35m[39m
+[31m30/05/2022 22:44:50 - [error] : [object Object][39m
+[35m30/05/2022 22:44:50 - [http] : POST /api/user/createContactBulk 400 64 - 1.985 ms[39m
+[35m[39m
+[34m30/05/2022 22:44:59 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:45:06 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:45:12 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:45:15 - [error] : Bad Request[39m
+[35m30/05/2022 22:45:15 - [http] : POST /api/user/createContactBulk 400 48 - 10.769 ms[39m
+[35m[39m
+[31m30/05/2022 22:45:18 - [error] : Bad Request[39m
+[35m30/05/2022 22:45:18 - [http] : POST /api/user/createContactBulk 400 48 - 2.235 ms[39m
+[35m[39m
+[31m30/05/2022 22:45:20 - [error] : Bad Request[39m
+[35m30/05/2022 22:45:20 - [http] : POST /api/user/createContactBulk 400 48 - 1.336 ms[39m
+[35m[39m
+[34m30/05/2022 22:45:48 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:45:57 - [error] : Cannot access 'token' before initialization[39m
+[34m30/05/2022 22:46:08 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:46:12 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:46:20 - [error] : Bad Request[39m
+[35m30/05/2022 22:46:20 - [http] : POST /api/user/createContactBulk 400 48 - 9.901 ms[39m
+[35m[39m
+[31m30/05/2022 22:46:52 - [error] : arr is not defined[39m
+[34m30/05/2022 22:47:33 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:47:54 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:48:12 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:48:47 - [error] : mapped is not defined[39m
+[34m30/05/2022 22:49:02 - [info] : listening on port 3000[39m
+[31m30/05/2022 22:49:05 - [error] : Contact.createBulk is not a function[39m
+[34m30/05/2022 22:49:56 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:49:58 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:50:27 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:50:32 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:50:33 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:50:36 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:50:37 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:50:39 - [info] : listening on port 3000[39m
+[34m30/05/2022 22:50:45 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:02:20 - [info] : listening on port 3000[39m
+[35m31/05/2022 10:03:29 - [http] : POST /api/login 200 39 - 2632.460 ms[39m
+[35m[39m
+[35m31/05/2022 10:04:00 - [http] : POST /api/user/createContact 201 59 - 2430.992 ms[39m
+[35m[39m
+[31m31/05/2022 10:05:32 - [error] : Not Found[39m
+[35m31/05/2022 10:05:32 - [http] : GET /api/user/getSingleContactDetail?contactId=1 404 46 - 1.373 ms[39m
+[35m[39m
+[34m31/05/2022 10:05:47 - [info] : listening on port 3000[39m
+[31m31/05/2022 10:05:50 - [error] : [object Object][39m
+[35m31/05/2022 10:05:50 - [http] : GET /api/user/getSingleContactDetail?contactId=1 400 64 - 4.805 ms[39m
+[35m[39m
+[31m31/05/2022 10:06:09 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[34m31/05/2022 10:08:22 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:08:27 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:08:29 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:08:30 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:08:32 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:08:34 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:08:35 - [info] : listening on port 3000[39m
+[31m31/05/2022 10:09:21 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[34m31/05/2022 10:09:35 - [info] : listening on port 3000[39m
+[31m31/05/2022 10:09:39 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[34m31/05/2022 10:10:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 10:10:34 - [info] : listening on port 3000[39m
+[31m31/05/2022 10:10:40 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:01:23 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:01:38 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:02:54 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:04:00 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:04:09 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:04:22 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:04:23 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:04:25 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:04:38 - [error] : Op.and is not a function[39m
+[34m31/05/2022 11:06:15 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:06:46 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:06:56 - [error] : Invalid value { id: '1' }[39m
+[34m31/05/2022 11:07:47 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:08:08 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:08:59 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:09:30 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:09:40 - [error] : Invalid value { id: 1 }[39m
+[34m31/05/2022 11:09:56 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:09:58 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:10:16 - [error] : Invalid value { id: '2' }[39m
+[34m31/05/2022 11:10:27 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:10:35 - [error] : Invalid value { id: 2 }[39m
+[34m31/05/2022 11:10:42 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:10:51 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:31:01 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:31:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:31:14 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:31:43 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:32:10 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:32:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:32:37 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:32:49 - [error] : Not Found[39m
+[35m31/05/2022 11:32:49 - [http] : GET /api/user/getSingleContactDetail?contactId=1 404 46 - 3.225 ms[39m
+[35m[39m
+[34m31/05/2022 11:33:19 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:33:22 - [error] : Not Found[39m
+[35m31/05/2022 11:33:22 - [http] : GET /api/user/getSingleContactDetail?contactId=1 404 46 - 3.337 ms[39m
+[35m[39m
+[34m31/05/2022 11:33:32 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:33:38 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:35:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:35:37 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:35:41 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:36:09 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:36:14 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:36:18 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:36:28 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:36:35 - [http] : GET /api/user/getSingleContactDetail?contactId=1 200 165 - 342.706 ms[39m
+[35m[39m
+[35m31/05/2022 11:36:58 - [http] : POST /api/user/createContact 201 59 - 3013.491 ms[39m
+[35m[39m
+[34m31/05/2022 11:37:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:37:28 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:37:32 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:37:37 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:37:41 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:37:44 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:40:05 - [error] : id is not defined[39m
+[34m31/05/2022 11:40:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:40:22 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:40:38 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:42:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:42:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:42:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:42:34 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:42:36 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:42:46 - [http] : GET /api/user/getAllContacts 200 715 - 362.097 ms[39m
+[35m[39m
+[35m31/05/2022 11:43:01 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 166 - 2511.689 ms[39m
+[35m[39m
+[34m31/05/2022 11:43:16 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:43:18 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:43:19 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:43:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:43:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:43:30 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:43:40 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 409.473 ms[39m
+[35m[39m
+[35m31/05/2022 11:43:55 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 2947.055 ms[39m
+[35m[39m
+[34m31/05/2022 11:44:13 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:44:21 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:44:27 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 2365.492 ms[39m
+[35m[39m
+[35m31/05/2022 11:44:36 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 282.666 ms[39m
+[35m[39m
+[34m31/05/2022 11:44:46 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:44:48 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:44:51 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:45:06 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 264.167 ms[39m
+[35m[39m
+[34m31/05/2022 11:45:43 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:45:51 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 731.734 ms[39m
+[35m[39m
+[34m31/05/2022 11:45:56 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:46:08 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 329.790 ms[39m
+[35m[39m
+[34m31/05/2022 11:47:13 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:47:46 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:47:48 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:47:51 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:47:53 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:48:05 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:48:15 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:48:26 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 470.110 ms[39m
+[35m[39m
+[34m31/05/2022 11:48:47 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:48:59 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 433.133 ms[39m
+[35m[39m
+[34m31/05/2022 11:49:17 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:49:27 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 412.728 ms[39m
+[35m[39m
+[34m31/05/2022 11:50:10 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:50:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:50:13 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:50:23 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 989 - 383.649 ms[39m
+[35m[39m
+[34m31/05/2022 11:51:03 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:51:04 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:51:13 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:51:21 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 989 - 303.053 ms[39m
+[35m[39m
+[34m31/05/2022 11:51:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:51:47 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:52:59 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:03 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:09 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:11 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:17 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:22 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:28 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:53:35 - [info] : listening on port 3000[39m
+[31m31/05/2022 11:53:48 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 11:53:58 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:54:07 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 322.062 ms[39m
+[35m[39m
+[34m31/05/2022 11:54:37 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:54:42 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:54:49 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 165 - 3019.595 ms[39m
+[35m[39m
+[31m31/05/2022 11:56:45 - [error] : [object Object][39m
+[35m31/05/2022 11:56:45 - [http] : DELETE /api/user/deleteContact 400 64 - 6.889 ms[39m
+[35m[39m
+[31m31/05/2022 11:58:28 - [error] : [object Object][39m
+[35m31/05/2022 11:58:28 - [http] : PUT /api/user/updateContact 400 64 - 1.364 ms[39m
+[35m[39m
+[31m31/05/2022 11:58:39 - [error] : column "contactId" does not exist[39m
+[34m31/05/2022 11:59:07 - [info] : listening on port 3000[39m
+[34m31/05/2022 11:59:08 - [info] : listening on port 3000[39m
+[35m31/05/2022 11:59:25 - [http] : PUT /api/user/updateContact 200 31 - 344.681 ms[39m
+[35m[39m
+[35m31/05/2022 11:59:34 - [http] : GET /api/user/getAllContacts 200 713 - 355.770 ms[39m
+[35m[39m
+[35m31/05/2022 11:59:57 - [http] : PUT /api/user/updateContact 200 31 - 2635.655 ms[39m
+[35m[39m
+[35m31/05/2022 12:00:03 - [http] : GET /api/user/getAllContacts 200 713 - 268.920 ms[39m
+[35m[39m
+[34m31/05/2022 12:00:24 - [info] : listening on port 3000[39m
+[31m31/05/2022 12:00:33 - [error] : Contact.updateOne is not a function[39m
+[34m31/05/2022 12:08:48 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:08:50 - [info] : listening on port 3000[39m
+[31m31/05/2022 12:09:00 - [error] : Missing where attribute in the options parameter[39m
+[34m31/05/2022 12:09:11 - [info] : listening on port 3000[39m
+[35m31/05/2022 12:09:18 - [http] : PUT /api/user/updateContact 200 31 - 492.814 ms[39m
+[35m[39m
+[35m31/05/2022 12:20:01 - [http] : GET /api/user/getAllContacts 200 713 - 2964.182 ms[39m
+[35m[39m
+[34m31/05/2022 12:21:20 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:21:30 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:21:39 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:21:41 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:21:42 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:21:43 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:21:46 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:06 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:10 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:11 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:18 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:20 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:25 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:29 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 12:22:35 - [info] : listening on port 3000[39m
+[31m31/05/2022 12:22:49 - [error] : Contact.find is not a function[39m
+[34m31/05/2022 12:23:03 - [info] : listening on port 3000[39m
+[31m31/05/2022 12:23:11 - [error] : Contact.findOne(...).on is not a function[39m
+[34m31/05/2022 12:23:32 - [info] : listening on port 3000[39m
+[34m31/05/2022 18:43:50 - [info] : listening on port 3000[39m
+[34m31/05/2022 18:44:48 - [info] : listening on port 3000[39m
+[34m31/05/2022 18:45:07 - [info] : listening on port 3000[39m
+[34m31/05/2022 18:46:26 - [info] : data[39m
+[35m31/05/2022 18:46:26 - [http] : POST /api/register 200 179 - 2603.717 ms[39m
+[35m[39m
+[34m31/05/2022 18:47:34 - [info] : listening on port 3000[39m
+[35m31/05/2022 18:47:42 - [http] : POST /api/login 200 39 - 355.241 ms[39m
+[35m[39m
+[35m31/05/2022 18:49:29 - [http] : POST /api/user/createContact 201 59 - 2599.565 ms[39m
+[35m[39m
+[35m31/05/2022 18:49:37 - [http] : POST /api/user/createContactBulk 201 63 - 345.794 ms[39m
+[35m[39m
+[35m31/05/2022 18:50:10 - [http] : GET /api/user/getSingleContactDetail?contactId=5 200 164 - 2484.018 ms[39m
+[35m[39m
+[35m31/05/2022 18:50:26 - [http] : GET /api/user/getAllContacts 200 577 - 2629.154 ms[39m
+[35m[39m
+[35m31/05/2022 18:50:36 - [http] : GET /api/user/getSingleContactDetail?contactId=2 200 164 - 311.190 ms[39m
+[35m[39m
+[35m31/05/2022 18:50:53 - [http] : PUT /api/user/updateContact 200 31 - 2755.660 ms[39m
+[35m[39m
+[35m31/05/2022 18:50:58 - [http] : GET /api/user/getAllContacts 200 571 - 332.064 ms[39m
+[35m[39m
+[34m31/05/2022 18:53:25 - [info] : listening on port 3000[39m
+[31m31/05/2022 18:53:48 - [error] : Cannot read property 'contactId' of undefined[39m
+[34m31/05/2022 18:54:53 - [info] : listening on port 3000[39m
+[31m31/05/2022 18:55:04 - [error] : Missing where or truncate attribute in the options parameter of model.destroy.[39m
+[34m31/05/2022 18:55:46 - [info] : listening on port 3000[39m
+[31m31/05/2022 18:55:55 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[34m31/05/2022 18:56:13 - [info] : listening on port 3000[39m
+[31m31/05/2022 18:56:30 - [error] : Missing where or truncate attribute in the options parameter of model.destroy.[39m
+[34m31/05/2022 18:58:53 - [info] : listening on port 3000[39m
+[31m31/05/2022 18:59:06 - [error] : Missing where or truncate attribute in the options parameter of model.destroy.[39m
+[34m31/05/2022 18:59:17 - [info] : listening on port 3000[39m
+[35m31/05/2022 18:59:27 - [http] : DELETE /api/user/deleteContact 200 61 - 331.497 ms[39m
+[35m[39m
+[34m31/05/2022 18:59:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 18:59:38 - [info] : listening on port 3000[39m
+[35m31/05/2022 18:59:47 - [http] : POST /api/user/createContactBulk 201 63 - 301.866 ms[39m
+[35m[39m
+[35m31/05/2022 18:59:52 - [http] : GET /api/user/getAllContacts 200 716 - 287.059 ms[39m
+[35m[39m
+[31m31/05/2022 19:00:07 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 19:01:09 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:01:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:01:14 - [info] : listening on port 3000[39m
+[31m31/05/2022 19:01:28 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 19:02:32 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:02:45 - [info] : listening on port 3000[39m
+[31m31/05/2022 19:02:58 - [error] : parseString is not defined[39m
+[34m31/05/2022 19:03:35 - [info] : listening on port 3000[39m
+[31m31/05/2022 19:03:45 - [error] : operator does not exist: character varying = integer[39m
+[34m31/05/2022 19:04:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:04:43 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:04:49 - [info] : listening on port 3000[39m
+[35m31/05/2022 19:04:58 - [http] : DELETE /api/user/deleteContact 200 61 - 294.692 ms[39m
+[35m[39m
+[35m31/05/2022 19:05:14 - [http] : PUT /api/user/updateContact 200 31 - 2373.317 ms[39m
+[35m[39m
+[35m31/05/2022 19:05:32 - [http] : GET /api/user/getAllContacts 200 704 - 2781.683 ms[39m
+[35m[39m
+[34m31/05/2022 19:06:58 - [info] : listening on port 3000[39m
+[31m31/05/2022 19:08:09 - [error] : Not Found[39m
+[35m31/05/2022 19:08:09 - [http] : GET /api/updateProfile 404 46 - 22.101 ms[39m
+[35m[39m
+[35m31/05/2022 19:08:40 - [http] : PUT /api/updateProfile 200 34 - 2827.927 ms[39m
+[35m[39m
+[34m31/05/2022 19:10:09 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:11:37 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:12:18 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:16:25 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:17:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:17:49 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:17:53 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:17:58 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:17:59 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:18:03 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:18:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:18:15 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:18:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:18:25 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:22:22 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:23:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:23:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:23:41 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:23:42 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:26:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:03 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:06 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:22 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:28 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:48 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:53 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:27:56 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:03 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:04 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:10 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:17 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:18 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:23 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:51 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:28:54 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:29:13 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:29:17 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:29:18 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:29:23 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:29:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:32:08 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:32:23 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:32:28 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:32:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:32:34 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:32:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:32:43 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:33:08 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:33:11 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:33:16 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:33:32 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:33:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:33:54 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:33:58 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:05 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:14 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:25 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:39 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:43 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:34:48 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:05 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:11 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:13 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:16 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:28 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:29 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:35 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:45 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:55 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:35:58 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:36:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:36:15 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:36:20 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:36:35 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:36:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:36:50 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:37:17 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:37:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:37:37 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:37:43 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:37:49 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:38:13 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:38:32 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:38:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:38:38 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:38:53 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:39:05 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:39:19 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:39:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:39:35 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:39:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:39:49 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:39:52 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:20 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:27 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:35 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:39 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:45 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:40:50 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:41:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:41:43 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:41:58 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:42:08 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:42:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:42:16 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:42:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:42:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:42:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:42:39 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:43:37 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:43:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:43:49 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:44:07 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:00 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:02 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:05 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:10 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:14 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:15 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:19 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:27 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:28 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:41 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:45:42 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:04 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:11 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:17 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:35 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:37 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:39 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:43 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:48 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:53 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:46:55 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:47:00 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:47:12 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:47:16 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:47:20 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:47:22 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:47:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:47:42 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:55:39 - [info] : listening on port 3000[39m
+[31m31/05/2022 19:55:54 - [error] : "name" is not allowed. "confirmPassword" is not allowed[39m
+[31m31/05/2022 19:55:54 - [error] : "name" is not allowed. "confirmPassword" is not allowed[39m
+[35m31/05/2022 19:55:54 - [http] : POST /api/register 500 96 - 65.325 ms[39m
+[35m[39m
+[34m31/05/2022 19:56:15 - [info] : listening on port 3000[39m
+[31m31/05/2022 19:56:21 - [error] : "language" is not allowed[39m
+[34m31/05/2022 19:56:53 - [info] : listening on port 3000[39m
+[34m31/05/2022 19:57:00 - [info] : data[39m
+[35m31/05/2022 19:57:00 - [http] : POST /api/register 200 58 - 652.449 ms[39m
+[35m[39m
+[35m31/05/2022 19:57:08 - [http] : POST /api/login 200 936 - 385.854 ms[39m
+[35m[39m
+[35m31/05/2022 20:02:27 - [http] : POST /api/user/createContact 201 59 - 2913.341 ms[39m
+[35m[39m
+[35m31/05/2022 20:02:31 - [http] : POST /api/user/createContactBulk 201 63 - 285.437 ms[39m
+[35m[39m
+[34m31/05/2022 20:02:58 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:05:24 - [http] : POST /api/login 200 936 - 2589.078 ms[39m
+[35m[39m
+[34m31/05/2022 20:08:11 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:08:26 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:08:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:08:38 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:09:21 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:10:02 - [info] : listening on port 3000[39m
+[31m31/05/2022 20:10:06 - [error] : createError is not defined[39m
+[34m31/05/2022 20:10:35 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:10:46 - [info] : listening on port 3000[39m
+[31m31/05/2022 20:10:50 - [error] : Permission Denied[39m
+[35m31/05/2022 20:10:50 - [http] : POST /api/user/createContact 401 54 - 24.053 ms[39m
+[35m[39m
+[34m31/05/2022 20:11:24 - [info] : data[39m
+[35m31/05/2022 20:11:24 - [http] : POST /api/register 200 58 - 2928.715 ms[39m
+[35m[39m
+[31m31/05/2022 20:11:44 - [error] : Permission Denied[39m
+[35m31/05/2022 20:11:44 - [http] : POST /api/user/createContact 401 54 - 4.010 ms[39m
+[35m[39m
+[31m31/05/2022 20:12:06 - [error] : Permission Denied[39m
+[35m31/05/2022 20:12:06 - [http] : POST /api/user/createContact 401 54 - 2.807 ms[39m
+[35m[39m
+[31m31/05/2022 20:15:10 - [error] : [object Object][39m
+[35m31/05/2022 20:15:10 - [http] : GET /api/admin/getUserContactCount?id=2 400 64 - 1.564 ms[39m
+[35m[39m
+[31m31/05/2022 20:15:39 - [error] : Permission Denied[39m
+[35m31/05/2022 20:15:39 - [http] : GET /api/admin/getUserContactCount?id=2 401 54 - 2.539 ms[39m
+[35m[39m
+[34m31/05/2022 20:16:14 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:16:22 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:16:29 - [http] : GET /api/admin/getUserContactCount?id=2 500 33 - 15.655 ms[39m
+[35m[39m
+[34m31/05/2022 20:16:43 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:17:06 - [http] : GET /api/admin/getUserContactCount?id=1 500 33 - 13.157 ms[39m
+[35m[39m
+[34m31/05/2022 20:17:19 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:17:28 - [http] : GET /api/admin/getUserContactCount?id=1 500 33 - 16.374 ms[39m
+[35m[39m
+[34m31/05/2022 20:17:49 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:18:00 - [http] : GET /api/admin/getUserContactCount?id=1 500 33 - 16.194 ms[39m
+[35m[39m
+[34m31/05/2022 20:18:14 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:18:20 - [http] : GET /api/admin/getUserContactCount?id=1 200 45 - 345.643 ms[39m
+[35m[39m
+[31m31/05/2022 20:19:08 - [error] : [object Object][39m
+[35m31/05/2022 20:19:08 - [http] : GET /api/admin/getUserContactCount?id=1 400 64 - 3.451 ms[39m
+[35m[39m
+[35m31/05/2022 20:19:20 - [http] : GET /api/admin/getUserContactCount?id=1 200 45 - 2544.544 ms[39m
+[35m[39m
+[35m31/05/2022 20:21:18 - [http] : GET /api/admin/getUserInfo 200 753 - 2455.353 ms[39m
+[35m[39m
+[34m31/05/2022 20:21:40 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:21:46 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:23:17 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:23:23 - [http] : GET /api/admin/getUserInfo 200 329 - 602.401 ms[39m
+[35m[39m
+[34m31/05/2022 20:23:34 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:23:40 - [info] : listening on port 3000[39m
+[31m31/05/2022 20:27:22 - [error] : [object Object][39m
+[35m31/05/2022 20:27:22 - [http] : DELETE /api/admin/deleteUser 400 64 - 23.260 ms[39m
+[35m[39m
+[34m31/05/2022 20:28:00 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:28:01 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:28:11 - [info] : listening on port 3000[39m
+[31m31/05/2022 20:28:49 - [error] : Email must be a valid email address[39m
+[31m31/05/2022 20:28:49 - [error] : Email must be a valid email address[39m
+[35m31/05/2022 20:28:49 - [http] : POST /api/register 500 72 - 65.898 ms[39m
+[35m[39m
+[34m31/05/2022 20:29:03 - [info] : data[39m
+[35m31/05/2022 20:29:03 - [http] : POST /api/register 200 58 - 2896.470 ms[39m
+[35m[39m
+[35m31/05/2022 20:29:12 - [http] : POST /api/login 401 33 - 258.735 ms[39m
+[35m[39m
+[35m31/05/2022 20:29:32 - [http] : POST /api/login 401 33 - 2544.318 ms[39m
+[35m[39m
+[34m31/05/2022 20:29:57 - [info] : data[39m
+[35m31/05/2022 20:29:57 - [http] : POST /api/register 200 58 - 2659.615 ms[39m
+[35m[39m
+[35m31/05/2022 20:30:15 - [http] : POST /api/login 401 33 - 2771.655 ms[39m
+[35m[39m
+[34m31/05/2022 20:31:51 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:31:52 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:32:21 - [http] : POST /api/login 200 936 - 2657.346 ms[39m
+[35m[39m
+[31m31/05/2022 20:32:44 - [error] : Email already exists[39m
+[31m31/05/2022 20:32:44 - [error] : Email already exists[39m
+[35m31/05/2022 20:32:44 - [http] : POST /api/register 400 57 - 2542.200 ms[39m
+[35m[39m
+[34m31/05/2022 20:33:54 - [info] : data[39m
+[35m31/05/2022 20:33:54 - [http] : POST /api/register 200 58 - 2709.831 ms[39m
+[35m[39m
+[35m31/05/2022 20:34:11 - [http] : POST /api/login 401 33 - 2802.678 ms[39m
+[35m[39m
+[34m31/05/2022 20:34:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:34:54 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:35:03 - [info] : data[39m
+[35m31/05/2022 20:35:03 - [http] : POST /api/register 200 58 - 618.564 ms[39m
+[35m[39m
+[35m31/05/2022 20:35:19 - [http] : POST /api/login 200 934 - 2474.653 ms[39m
+[35m[39m
+[34m31/05/2022 20:35:50 - [info] : data[39m
+[35m31/05/2022 20:35:50 - [http] : POST /api/register 200 58 - 2824.912 ms[39m
+[35m[39m
+[35m31/05/2022 20:36:04 - [http] : POST /api/login 401 33 - 2492.811 ms[39m
+[35m[39m
+[34m31/05/2022 20:37:01 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:37:39 - [http] : POST /api/login 401 33 - 2797.483 ms[39m
+[35m[39m
+[34m31/05/2022 20:37:49 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:37:54 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:38:04 - [http] : POST /api/login 401 33 - 437.254 ms[39m
+[35m[39m
+[35m31/05/2022 20:40:49 - [http] : GET /api/admin/getUserInfo 200 323 - 2892.171 ms[39m
+[35m[39m
+[35m31/05/2022 20:41:17 - [http] : POST /api/login 401 33 - 2596.005 ms[39m
+[35m[39m
+[35m31/05/2022 20:42:46 - [http] : GET /api/admin/getUserInfo 200 323 - 2021.554 ms[39m
+[35m[39m
+[34m31/05/2022 20:43:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:45:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:46:24 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:46:33 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:46:36 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:46:39 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:46:41 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:46:45 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:46:56 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:47:09 - [http] : POST /api/login 200 934 - 368.166 ms[39m
+[35m[39m
+[34m31/05/2022 20:47:55 - [info] : data[39m
+[35m31/05/2022 20:47:55 - [http] : POST /api/register 200 58 - 2948.940 ms[39m
+[35m[39m
+[35m31/05/2022 20:48:04 - [http] : POST /api/login 200 934 - 365.965 ms[39m
+[35m[39m
+[34m31/05/2022 20:48:31 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:49:00 - [info] : data[39m
+[35m31/05/2022 20:49:00 - [http] : POST /api/register 200 58 - 3108.566 ms[39m
+[35m[39m
+[35m31/05/2022 20:49:19 - [http] : POST /api/login 200 936 - 2497.386 ms[39m
+[35m[39m
+[35m31/05/2022 20:49:27 - [http] : GET /api/admin/getUserInfo 200 1454 - 308.559 ms[39m
+[35m[39m
+[34m31/05/2022 20:49:46 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:49:51 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:50:03 - [http] : GET /api/admin/getUserInfo 200 606 - 306.037 ms[39m
+[35m[39m
+[31m31/05/2022 20:50:11 - [error] : Permission Denied[39m
+[35m31/05/2022 20:50:11 - [http] : POST /api/user/createContact 401 54 - 18.668 ms[39m
+[35m[39m
+[34m31/05/2022 20:50:28 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:50:34 - [http] : POST /api/login 200 934 - 2523.607 ms[39m
+[35m[39m
+[31m31/05/2022 20:50:39 - [error] : Permission Denied[39m
+[35m31/05/2022 20:50:39 - [http] : POST /api/user/createContact 401 54 - 18.863 ms[39m
+[35m[39m
+[31m31/05/2022 20:50:45 - [error] : Permission Denied[39m
+[35m31/05/2022 20:50:45 - [http] : POST /api/user/createContact 401 54 - 4.429 ms[39m
+[35m[39m
+[35m31/05/2022 20:51:02 - [http] : POST /api/user/createContact 201 59 - 2515.723 ms[39m
+[35m[39m
+[35m31/05/2022 20:51:11 - [http] : POST /api/user/createContactBulk 201 63 - 253.841 ms[39m
+[35m[39m
+[35m31/05/2022 20:51:19 - [http] : GET /api/user/getSingleContactDetail?contactId=2 200 164 - 324.318 ms[39m
+[35m[39m
+[35m31/05/2022 20:51:27 - [http] : GET /api/user/getAllContacts 200 577 - 257.621 ms[39m
+[35m[39m
+[35m31/05/2022 20:51:45 - [http] : PUT /api/user/updateContact 200 31 - 2318.105 ms[39m
+[35m[39m
+[35m31/05/2022 20:51:55 - [http] : DELETE /api/user/deleteContact 200 61 - 239.629 ms[39m
+[35m[39m
+[35m31/05/2022 20:52:03 - [http] : PUT /api/updateProfile 200 34 - 562.015 ms[39m
+[35m[39m
+[31m31/05/2022 20:52:29 - [error] : Permission Denied[39m
+[35m31/05/2022 20:52:29 - [http] : GET /api/admin/getUserContactCount?id=1 401 54 - 2.656 ms[39m
+[35m[39m
+[35m31/05/2022 20:52:44 - [http] : GET /api/admin/getUserContactCount?id=1 200 45 - 2513.749 ms[39m
+[35m[39m
+[35m31/05/2022 20:52:57 - [http] : DELETE /api/admin/deleteUser 200 71 - 2209.756 ms[39m
+[35m[39m
+[35m31/05/2022 20:53:05 - [http] : GET /api/admin/getUserInfo 200 472 - 246.224 ms[39m
+[35m[39m
+[34m31/05/2022 20:54:59 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:55:03 - [info] : listening on port 3000[39m
+[34m31/05/2022 20:55:07 - [info] : listening on port 3000[39m
+[35m31/05/2022 20:55:31 - [http] : PUT /api/updateProfile 200 34 - 3101.872 ms[39m
+[35m[39m

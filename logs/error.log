@@ -1,0 +1,122 @@
+[31m29/05/2022 22:58:58 - [error] : Not Found[39m
+[31m29/05/2022 23:01:11 - [error] : Not Found[39m
+[31m29/05/2022 23:02:52 - [error] : Not Found[39m
+[31m29/05/2022 23:04:01 - [error] : Not Found[39m
+[31m29/05/2022 23:04:10 - [error] : Not Found[39m
+[31m29/05/2022 23:05:45 - [error] : Not Found[39m
+[31m29/05/2022 23:06:24 - [error] : Not Found[39m
+[31m29/05/2022 23:07:30 - [error] : Not Found[39m
+[31m29/05/2022 23:08:54 - [error] : Not Found[39m
+[31m29/05/2022 23:09:15 - [error] : Not Found[39m
+[31m29/05/2022 23:09:15 - [error] : Not Found[39m
+[31m29/05/2022 23:11:08 - [error] : Not Found[39m
+[31m29/05/2022 23:11:52 - [error] : Not Found[39m
+[31m29/05/2022 23:12:17 - [error] : Not Found[39m
+[31m29/05/2022 23:15:16 - [error] : Not Found[39m
+[31m29/05/2022 23:22:17 - [error] : Not Found[39m
+[31m29/05/2022 23:24:02 - [error] : Not Found[39m
+[31m29/05/2022 23:38:23 - [error] : Not Found[39m
+[31m29/05/2022 23:42:06 - [error] : Cannot read property 'create' of undefined[39m
+[31m29/05/2022 23:57:47 - [error] : Not Found[39m
+[31m29/05/2022 23:58:16 - [error] : Not Found[39m
+[31m30/05/2022 00:15:34 - [error] : Not Found[39m
+[31m30/05/2022 00:55:09 - [error] : invalid input syntax for type boolean: "Dipikesh@123"[39m
+[31m30/05/2022 01:02:18 - [error] : Not Found[39m
+[31m30/05/2022 01:03:07 - [error] : validation is not defined[39m
+[31m30/05/2022 01:04:07 - [error] : validation is not defined[39m
+[31m30/05/2022 01:04:50 - [error] : Email is required. Password is Required![39m
+[31m30/05/2022 01:04:50 - [error] : Email is required. Password is Required![39m
+[31m30/05/2022 01:05:03 - [error] : Cannot read property '0' of undefined[39m
+[31m30/05/2022 01:06:38 - [error] : Cannot read property '0' of undefined[39m
+[31m30/05/2022 01:10:06 - [error] : Cannot read property '0' of undefined[39m
+[31m30/05/2022 10:24:56 - [error] : Cannot read property '0' of undefined[39m
+[31m30/05/2022 10:29:35 - [error] : Cannot read property '0' of undefined[39m
+[31m30/05/2022 10:30:56 - [error] : Cannot read property '0' of undefined[39m
+[31m30/05/2022 10:32:41 - [error] : Cannot read property 'dataValues' of undefined[39m
+[31m30/05/2022 10:34:15 - [error] : Cannot read property 'userId' of undefined[39m
+[31m30/05/2022 10:35:07 - [error] : Cannot read property 'userId' of undefined[39m
+[31m30/05/2022 10:55:07 - [error] : Not Found[39m
+[31m30/05/2022 10:56:49 - [error] : Cannot set property 'authenticated' of undefined[39m
+[31m30/05/2022 10:59:48 - [error] : Not Found[39m
+[31m30/05/2022 10:59:49 - [error] : Not Found[39m
+[31m30/05/2022 13:02:10 - [error] : Not Found[39m
+[31m30/05/2022 13:03:00 - [error] : Bad Request[39m
+[31m30/05/2022 13:04:12 - [error] : Bad Request[39m
+[31m30/05/2022 13:04:21 - [error] : [object Object][39m
+[31m30/05/2022 13:04:25 - [error] : Bad Request[39m
+[31m30/05/2022 13:06:33 - [error] : Bad Request[39m
+[31m30/05/2022 22:35:51 - [error] : Email must be a valid email address[39m
+[31m30/05/2022 22:35:51 - [error] : Email must be a valid email address[39m
+[31m30/05/2022 22:37:59 - [error] : [object Object][39m
+[31m30/05/2022 22:38:13 - [error] : Bad Request[39m
+[31m30/05/2022 22:42:24 - [error] : Cannot read property 'split' of undefined[39m
+[31m30/05/2022 22:43:10 - [error] : Cannot read property 'split' of undefined[39m
+[31m30/05/2022 22:44:13 - [error] : Bad Request[39m
+[31m30/05/2022 22:44:21 - [error] : Bad Request[39m
+[31m30/05/2022 22:44:44 - [error] : [object Object][39m
+[31m30/05/2022 22:44:50 - [error] : [object Object][39m
+[31m30/05/2022 22:45:15 - [error] : Bad Request[39m
+[31m30/05/2022 22:45:18 - [error] : Bad Request[39m
+[31m30/05/2022 22:45:20 - [error] : Bad Request[39m
+[31m30/05/2022 22:45:57 - [error] : Cannot access 'token' before initialization[39m
+[31m30/05/2022 22:46:20 - [error] : Bad Request[39m
+[31m30/05/2022 22:46:52 - [error] : arr is not defined[39m
+[31m30/05/2022 22:48:47 - [error] : mapped is not defined[39m
+[31m30/05/2022 22:49:05 - [error] : Contact.createBulk is not a function[39m
+[31m31/05/2022 10:05:32 - [error] : Not Found[39m
+[31m31/05/2022 10:05:50 - [error] : [object Object][39m
+[31m31/05/2022 10:06:09 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[31m31/05/2022 10:09:21 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[31m31/05/2022 10:09:39 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[31m31/05/2022 10:10:40 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:01:38 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:04:38 - [error] : Op.and is not a function[39m
+[31m31/05/2022 11:06:56 - [error] : Invalid value { id: '1' }[39m
+[31m31/05/2022 11:09:40 - [error] : Invalid value { id: 1 }[39m
+[31m31/05/2022 11:10:16 - [error] : Invalid value { id: '2' }[39m
+[31m31/05/2022 11:10:35 - [error] : Invalid value { id: 2 }[39m
+[31m31/05/2022 11:10:51 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:31:43 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:32:49 - [error] : Not Found[39m
+[31m31/05/2022 11:33:22 - [error] : Not Found[39m
+[31m31/05/2022 11:33:38 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:40:05 - [error] : id is not defined[39m
+[31m31/05/2022 11:40:38 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:48:05 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:53:48 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 11:56:45 - [error] : [object Object][39m
+[31m31/05/2022 11:58:28 - [error] : [object Object][39m
+[31m31/05/2022 11:58:39 - [error] : column "contactId" does not exist[39m
+[31m31/05/2022 12:00:33 - [error] : Contact.updateOne is not a function[39m
+[31m31/05/2022 12:09:00 - [error] : Missing where attribute in the options parameter[39m
+[31m31/05/2022 12:22:49 - [error] : Contact.find is not a function[39m
+[31m31/05/2022 12:23:11 - [error] : Contact.findOne(...).on is not a function[39m
+[31m31/05/2022 18:53:48 - [error] : Cannot read property 'contactId' of undefined[39m
+[31m31/05/2022 18:55:04 - [error] : Missing where or truncate attribute in the options parameter of model.destroy.[39m
+[31m31/05/2022 18:55:55 - [error] : WHERE parameter "id" has invalid "undefined" value[39m
+[31m31/05/2022 18:56:30 - [error] : Missing where or truncate attribute in the options parameter of model.destroy.[39m
+[31m31/05/2022 18:59:06 - [error] : Missing where or truncate attribute in the options parameter of model.destroy.[39m
+[31m31/05/2022 19:00:07 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 19:01:28 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 19:02:58 - [error] : parseString is not defined[39m
+[31m31/05/2022 19:03:45 - [error] : operator does not exist: character varying = integer[39m
+[31m31/05/2022 19:08:09 - [error] : Not Found[39m
+[31m31/05/2022 19:55:54 - [error] : "name" is not allowed. "confirmPassword" is not allowed[39m
+[31m31/05/2022 19:55:54 - [error] : "name" is not allowed. "confirmPassword" is not allowed[39m
+[31m31/05/2022 19:56:21 - [error] : "language" is not allowed[39m
+[31m31/05/2022 20:10:06 - [error] : createError is not defined[39m
+[31m31/05/2022 20:10:50 - [error] : Permission Denied[39m
+[31m31/05/2022 20:11:44 - [error] : Permission Denied[39m
+[31m31/05/2022 20:12:06 - [error] : Permission Denied[39m
+[31m31/05/2022 20:15:10 - [error] : [object Object][39m
+[31m31/05/2022 20:15:39 - [error] : Permission Denied[39m
+[31m31/05/2022 20:19:08 - [error] : [object Object][39m
+[31m31/05/2022 20:27:22 - [error] : [object Object][39m
+[31m31/05/2022 20:28:49 - [error] : Email must be a valid email address[39m
+[31m31/05/2022 20:28:49 - [error] : Email must be a valid email address[39m
+[31m31/05/2022 20:32:44 - [error] : Email already exists[39m
+[31m31/05/2022 20:32:44 - [error] : Email already exists[39m
+[31m31/05/2022 20:50:11 - [error] : Permission Denied[39m
+[31m31/05/2022 20:50:39 - [error] : Permission Denied[39m
+[31m31/05/2022 20:50:45 - [error] : Permission Denied[39m
+[31m31/05/2022 20:52:29 - [error] : Permission Denied[39m

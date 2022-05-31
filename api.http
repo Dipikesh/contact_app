@@ -1,0 +1,65 @@
+###
+POST http://localhost:3000/api/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "name":"Dipikesh kumar",
+    "email":"dipikesh@gmail.com",
+    "password":"Dipikesh@123",
+    "confirmPassword":"Dipikesh@123"
+}
+
+################################
+POST http://localhost:3000/api/login HTTP/1.1
+Content-Type: application/json
+
+{
+    "email": "dipikesh@gmail.com",
+    "password":"Dipikesh@123"
+}
+
+################################################################
+GET http://localhost:3000/api/getAllUser HTTP/1.1
+Content-Type: "application/json"
+
+{
+
+}
+
+################################################################
+PUT http://localhost:3000/api/updateUserProfile HTTP/1.1
+CONTENT-Type: application/json
+Authorization:eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOnsiaWQiOjEsInJvbGUiOiJ1c2VyIn0sImlhdCI6MTY1Mzg4OTE0MDUxNCwiaXNzIjoiYWRkcmVzc0Jvb2siLCJ0eXBlIjoiYXQiLCJleHAiOjE2NTM4ODkyMjY5MTR9.0d0_O4JRZimO7UklF_QIqtXHmbvIbJFsRlZHgtVqOHXhvGaRfKEhRcu0n85N4-zBNgOqZvc192SZ8cGw6L201zFnp2rKJZtvovwilPIeCKyesHb7cP0wvRWeol71coclndzIC1zQ6JXqfzfGrUR9oPBAxL08YDq8ZqVeF-S8WJx0Pbk5Cvan7hq1rP_JOvHRZKLcAZMlo44WdQMv6JdwvY88BhGH4eIaeSmp6-5vYE0gdng2GOk5_98OWHAZkyJJpHszUEVIpK5J2H6QXqoP2_GEAx0O63DyyAVS97hlzoI9axdEpVUNF8VDx_ryAIwqHWqOoDp1tOYebqEVqATMc_d3YP0iMvxA1nklJ9qhIQxUH4T_JBCqnqKwY1buZugT5ZTy5QNE0zC3sFT9QxNSSxCyC7051ZePGfL9QXwZfzvSdWkNgJZ0I7iZV0t3QpQQSbwOvWb2v9RtrY3WWrvNvbCiNc0y7CpObpjXNe-z8sJMihn8C3PPGzPUiPBxE037P7Wsvu1Nzws-mIOk7lnccoVJzNma2fVrQy9ZnMm9MQI7lGqyFmCc6PvMwVwYDPoQbQHQo2x0PLvQxnuC_y8g14sY1ZiFF6GGkdzkbbGDPwnmtqrHRuyR1PqZRkrbcnxpxoRSNjcyw46IEUkTfUjZj-Vda7p1m6UcxMCZGPDDEBI
+
+{
+    "name":"anurag"
+}
+######
+POST http://localhost:3000/api/user/createContact HTTP/1.1
+Content-Type: application/json
+Authorization:eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOnsiaWQiOjEsInJvbGUiOiJ1c2VyIn0sImlhdCI6MTY1Mzg5NjE1MjczMywiaXNzIjoiYWRkcmVzc0Jvb2siLCJ0eXBlIjoiYXQiLCJleHAiOjE2NTM4OTYyMzkxMzN9.H4ktP0cLGhThcL_CDxCzCHNe3N6ya8yAziSEW2GTrLA3zC9b-NAd9u8iVfqiHJUpp4ii-ixuktQz9T033G_1LPu6NMTwyHrqcpgK2WORTUARoJ_tMLBT7r8uR_GK_RxQDTpgYwPZK782cl1rqMuU9syO6xHE6SL3E9Wn60kP-LC3GixNOMfJVnwApV4D0NAKNK3vAOmPsrnmMKTlrTigZ2_auZ5kjXb7AEZaJs23o56R6zycHdhLNPDsojXAcHZ4z97WX2dX4bu1u-175p95sg2Jk9qXtroI88cktVhSU4zK1geLC5TSLbJDYoGGR-bDbcsvRqJipRonLcb_rwtTVfYoF0236-npKMB4pgrebRF2Qbry1kqzuceDuLCrXCuhHZu7-aQagOri0S27-C__0AQbdDq7wcOOB0ItL0cmPFBPL7Tia_rL4qjgM8V0ZYNNjLAI8fze69sIw9efE-vkbatI-2u73g_3lKke5V3kXBLjmSsEbn03jucHvpKV_7CCQprb5SrgmtCtbbJx7oxY8ySpwVkQWoBaglqW6z7KNxFq3HzlTCUJjneAMRtMtkLupUsqGcdPrzr6D6i58-UwZYDN4CDtpGfAPgRQ-SCrInvAQPGLQ1w-bVFrvt_dxZuswC9BuCDxnPWGmH2UiSVsbxoHYR4pgXwWVqGo8doal9w
+
+{
+    "name":"Swarnit",
+    "address":"kolkata"
+}
+
+##########
+
+GET http://localhost:3000/api/getUserInfo?id=1
+Content-Type: application/json
+Authorization:eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOnsiaWQiOjEsInJvbGUiOiJ1c2VyIn0sImlhdCI6MTY1Mzg5NjE1MjczMywiaXNzIjoiYWRkcmVzc0Jvb2siLCJ0eXBlIjoiYXQiLCJleHAiOjE2NTM4OTYyMzkxMzN9.H4ktP0cLGhThcL_CDxCzCHNe3N6ya8yAziSEW2GTrLA3zC9b-NAd9u8iVfqiHJUpp4ii-ixuktQz9T033G_1LPu6NMTwyHrqcpgK2WORTUARoJ_tMLBT7r8uR_GK_RxQDTpgYwPZK782cl1rqMuU9syO6xHE6SL3E9Wn60kP-LC3GixNOMfJVnwApV4D0NAKNK3vAOmPsrnmMKTlrTigZ2_auZ5kjXb7AEZaJs23o56R6zycHdhLNPDsojXAcHZ4z97WX2dX4bu1u-175p95sg2Jk9qXtroI88cktVhSU4zK1geLC5TSLbJDYoGGR-bDbcsvRqJipRonLcb_rwtTVfYoF0236-npKMB4pgrebRF2Qbry1kqzuceDuLCrXCuhHZu7-aQagOri0S27-C__0AQbdDq7wcOOB0ItL0cmPFBPL7Tia_rL4qjgM8V0ZYNNjLAI8fze69sIw9efE-vkbatI-2u73g_3lKke5V3kXBLjmSsEbn03jucHvpKV_7CCQprb5SrgmtCtbbJx7oxY8ySpwVkQWoBaglqW6z7KNxFq3HzlTCUJjneAMRtMtkLupUsqGcdPrzr6D6i58-UwZYDN4CDtpGfAPgRQ-SCrInvAQPGLQ1w-bVFrvt_dxZuswC9BuCDxnPWGmH2UiSVsbxoHYR4pgXwWVqGo8doal9w
+
+{
+
+}
+
+##############
+GET http://localhost:3000/api/getUserContacts?id=1 HTTP/1.1
+Content-Type:application/json
+Authorization:eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOnsiaWQiOjEsInJvbGUiOiJ1c2VyIn0sImlhdCI6MTY1Mzg5NjE1MjczMywiaXNzIjoiYWRkcmVzc0Jvb2siLCJ0eXBlIjoiYXQiLCJleHAiOjE2NTM4OTYyMzkxMzN9.H4ktP0cLGhThcL_CDxCzCHNe3N6ya8yAziSEW2GTrLA3zC9b-NAd9u8iVfqiHJUpp4ii-ixuktQz9T033G_1LPu6NMTwyHrqcpgK2WORTUARoJ_tMLBT7r8uR_GK_RxQDTpgYwPZK782cl1rqMuU9syO6xHE6SL3E9Wn60kP-LC3GixNOMfJVnwApV4D0NAKNK3vAOmPsrnmMKTlrTigZ2_auZ5kjXb7AEZaJs23o56R6zycHdhLNPDsojXAcHZ4z97WX2dX4bu1u-175p95sg2Jk9qXtroI88cktVhSU4zK1geLC5TSLbJDYoGGR-bDbcsvRqJipRonLcb_rwtTVfYoF0236-npKMB4pgrebRF2Qbry1kqzuceDuLCrXCuhHZu7-aQagOri0S27-C__0AQbdDq7wcOOB0ItL0cmPFBPL7Tia_rL4qjgM8V0ZYNNjLAI8fze69sIw9efE-vkbatI-2u73g_3lKke5V3kXBLjmSsEbn03jucHvpKV_7CCQprb5SrgmtCtbbJx7oxY8ySpwVkQWoBaglqW6z7KNxFq3HzlTCUJjneAMRtMtkLupUsqGcdPrzr6D6i58-UwZYDN4CDtpGfAPgRQ-SCrInvAQPGLQ1w-bVFrvt_dxZuswC9BuCDxnPWGmH2UiSVsbxoHYR4pgXwWVqGo8doal9w
+
+{
+
+}
+
