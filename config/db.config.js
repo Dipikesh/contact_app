@@ -1,9 +1,9 @@
 module.exports = {
-  HOST: 'ec2-34-230-153-41.compute-1.amazonaws.com',
-  USER: 'nrkwknjyjcaghp',
-  PASSWORD: '83e09c4fea82f23c997a5cd6b1db0697ef5e4818b8c285dfa051cffabc1ef213',
-  DB: 'dd25bm6l1shgnr',
-  dialect: 'postgres',
+  HOST: process.env.HOST,
+  USER: process.env.USER_NAME,
+  PASSWORD: process.env.PASSWORD,
+  DB: process.env.DB,
+  dialect: process.env.dialect,
   pool: {
     max: 5,
     min: 0,
