@@ -1,30 +1,24 @@
-const pool = require('../config/db.config')
-const logger = require('../config/logger')
-const tokenService = require('../services/token.services')
-const validation = require('../validation/user.validation')
-const jwt = require(`jsonwebtoken`)
+const validation = require('../validation/data.validation')
 const createError = require(`http-errors`)
-
 const db = require('../model')
-const { data } = require('../config/logger')
-const { Sequelize } = require('../model')
-const { INTEGER } = require('sequelize')
 const Contact = db.contact
-const Op = db.Sequelize.Op
 
 exports.saveContact = async (req, res, next) => {
-    try {
-        const { name, address } = req.body;
+  try {
+      const validatedResult = await validation.contact().validateAsync(req.body, { abortEarly: false })
+
+        const { name, address } = validatedResult;
         const contactDetails = {name,address,userId:res.locals.payload.sub.id}
-        console.log(name, address);
-        const result = await Contact.create(contactDetails);
+    const result = await Contact.create(contactDetails);
+    if (!result) {
+      throw createError(500, "can not saveContact");
+    }
         console.log("saving contact", result);
 
         return res.status(201).json({status: 'success',message: "contact successfully saved" });
 
     }
     catch (err) {
-        console.log("err", err);
         next(err);
     }
 }
@@ -32,19 +26,15 @@ exports.saveContact = async (req, res, next) => {
 exports.getUserContactsCount
  = async (req, res, next) => {
   try {
-    const data = {}
-
-   
+    const data = {};
       const id = req.query.id
       const userContact = await Contact.count({ userId: id })
       data.userContact = userContact
       return res.status(200).json({ status: 'success', data: data })
     
     
-    // return res.status(200).json({ status: 'success', data: data })
   } catch (err) {
-    console.log('Error', err)
-    res.status(500).json({ error: 'Internal Server Error' })
+   next(err);
   }
 }
 
@@ -68,7 +58,6 @@ exports.getSingleContactDetail = async (req, res, next) => {
 
   }
   catch (err) {
-    console.log("Err", err);
     next(err);
   }
 }
@@ -82,7 +71,6 @@ exports.getUserContacts = async (req, res, next) => {
 
   }
   catch (err) {
-    console.log("err", err);
     next(err);
   }
 }
@@ -106,7 +94,6 @@ exports.updateContact = async (req, res, next) => {
     return res.status(200).json({ status: 'success', data: response })
   }
   catch (err) {
-    console.log("Error while updating contact", err);
     next(err);
   }
 }
@@ -116,11 +103,10 @@ exports.deleteUserContact = async (req, res, next) => {
     const contactId = req.body.contactId;
     const userId = String(res.locals.payload.sub.id);
 
-    const result = await Contact.destroy({ where: { userId: userId ,id: contactId,  } });
+    const result = await Contact.destroy({ where: { userId: userId, id: contactId, } });
     res.status(200).json({ status: 'success',message: "successfully deleted contact" });
   }
   catch (err) {
-    console.log("err", err);
     next(err);
   }
 

@@ -45,8 +45,18 @@ module.exports = {
       name: Joi.string()
         .required()
         .messages({
-          'any.required': 'Email is required'
+          'any.required': 'Name is required'
         })
+    })
+  },
+  contact: () => {
+    return Joi.object({
+      name: Joi.string().required().message({
+          'any.required': 'Name is required'
+      }),
+      address: Joi.string().required().message({
+          'any.required': 'Email is required'
+      })
     })
   }
 }

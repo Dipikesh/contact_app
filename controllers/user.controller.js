@@ -1,6 +1,6 @@
 const logger = require('../config/logger')
 const tokenService = require('../services/token.services')
-const validation = require('../validation/user.validation')
+const validation = require('../validation/data.validation')
 const createError = require(`http-errors`)
 const hashing = require('../utils/generate')
 const db = require('../model')
