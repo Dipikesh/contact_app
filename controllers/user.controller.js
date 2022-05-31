@@ -48,7 +48,7 @@ exports.login = async (req, res, next) => {
   }
 }
 
-//Middleware to authenticate user and jwt token
+
 
 exports.registerUser = async (req, res, next) => {
   try {
@@ -68,6 +68,7 @@ exports.registerUser = async (req, res, next) => {
     //encrypt the password and save hash, salt to database
     const { hash, salt } = await hashing.genPassword(password)
 
+    //set the data and role to user to save in database
     const user_detail = {
       role: 'user',
       name,
@@ -87,24 +88,28 @@ exports.registerUser = async (req, res, next) => {
   }
 }
 
+//Update  Profile
 exports.updateUserProfile = async (req, res, next) => {
   try {
-
+    
     const  id = res.locals.payload.sub.id
     
     const dataToUpdate = {}
+
+    //searching for field needed to be update and put them in object
     if (req.body.name) dataToUpdate.name = req.body.name
     if (req.body.password) dataToUpdate.password = req.body.password
     console.log(res.locals.payload)
 
-    //find User BY id
+    //find User BY primary key , i.e id
     const user = await User.findByPk(id)
+    //if user is not found , throw an error
     if (!user) throw createError(404, 'User Not Found')
     const result = await User.update(dataToUpdate, { where: { id: id } })
     res.status(200).json({ status: 'Success', message: result })
   } catch (err) {
-    console.log('err', err)
-    res.status(500).json({ status: 'Error', message: err })
+    logger.error(err);
+    next(err);
   }
 }
 
@@ -113,22 +118,22 @@ exports.updateUserProfile = async (req, res, next) => {
 exports.getUserInfo = async (req, res, next) => {
   try {
     const data = {}
-
+    // find all user's profile except password column
     const userProfile = await User.findAll({
-      attributes: { exclude: ['hash','salt'] }
-    })
+      attributes: { exclude: ['hash', 'salt'] }
+    });
 
     return res.status(200).json({ status: 'success', data: userProfile })
   } catch (err) {
-    console.log('Error', err)
-    res.status(500).json({ error: 'Internal Server Error' })
+    logger.error(err)
+    next(err);
   }
 }
 
 exports.deleteUser = async (req, res, next) => {
   try {
     const id = req.body.id
-
+    //delete user by id
     const deleteUser = await User.destroy({
       where: {
         id
